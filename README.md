@@ -1,6 +1,6 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0EA5E9&height=180&section=header&text=James%20Ty&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-# Hi there, I'm James Ty 👋
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Cloud+Engineer+%7C+BS+CS+%40+UP+Cebu+'27;3x+AWS+Certified+%7C+GitHub+Campus+Expert;Building+cloud%2C+AI+%26+systems+that+ship)](https://git.io/typing-svg)
 
@@ -35,6 +35,12 @@ I'm a Computer Science undergrad who likes building **real systems** — cloud i
 ---
 
 ## 🛠️ Tech stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,ts,python,go,nextjs,fastapi,django,tensorflow,pytorch,postgres,redis,supabase,solidity&theme=dark)](https://skillicons.dev)
+
+</div>
 
 **Cloud & Infra**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -79,11 +85,19 @@ Immutable agreement lifecycles, multi-deliverable escrow state machines, automat
 <br>🏆 Lisk Builders Challenge Round 3 — **Honorable Mention**
 <br>[🌐 Website](https://www.sabotchain.com) · [💻 GitHub](https://github.com/gian-gg/sabot/tree/main) · [🎥 Demo](https://www.youtube.com/watch?v=duVOl5K5IVE)
 
+<div align="center">
+<a href="https://github.com/gian-gg/sabot"><img src="https://readme-stats-six-psi.vercel.app/api/pin/?username=gian-gg&repo=sabot&theme=tokyonight&hide_border=true" width="400" /></a>
+</div>
+
 ### 🗺️ [LakbAI](https://lakbai.maxellmilay.com) — pedestrian accessibility intelligence
 Geospatial dashboard scoring walkability across PH pilot areas. Fuzzy-logic inference fusing weather, flood models, OSM data + street audits. Interactive GeoJSON map with 13-band interpolation.
 <br>`Next.js` `Django` `Leaflet` `AWS` `PyTorch`
 <br>🏆 Philippine Junior Data Science Challenge 2024 — **Champion**
 <br>[🌐 Website](https://lakbai.maxellmilay.com) · [💻 GitHub](https://github.com/maxellmilay/lakbai/tree/main)
+
+<div align="center">
+<a href="https://github.com/maxellmilay/lakbai"><img src="https://readme-stats-six-psi.vercel.app/api/pin/?username=maxellmilay&repo=lakbai&theme=tokyonight&hide_border=true" width="400" /></a>
+</div>
 
 ### 🌳 GreenPoint — GIS urban-greening framework
 Satellite NDVI/LST + air quality → multi-dimensional Greenery Index (quantity, equity, connectivity) for Mandaue City. Agentic AI + urban-forestry RAG proposing pocket parks and blue-green corridors.
@@ -91,10 +105,18 @@ Satellite NDVI/LST + air quality → multi-dimensional Greenery Index (quantity,
 <br>🏆 UP Cebu EXPOdition 30 — **Project of the Year**
 <br>[🌐 Website](https://fb-green-point-vercel.app) · [💻 GitHub](https://github.com/sicefguroni/green-point)
 
+<div align="center">
+<a href="https://github.com/sicefguroni/green-point"><img src="https://readme-stats-six-psi.vercel.app/api/pin/?username=sicefguroni&repo=green-point&theme=tokyonight&hide_border=true" width="400" /></a>
+</div>
+
 ### 🍘 [Wafers, Please!](https://wafers-please.vercel.app) — semiconductor training in WebXR
 Educational inspection-shift simulator with deterministic defect generation + dual progression gates. Selected for development as a microcredential for a Taiwanese semiconductor company.
 <br>`Next.js` `TypeScript` `A-Frame` `WebXR`
 <br>[🌐 Website](https://wafers-please.vercel.app) · [💻 GitHub](https://github.com/JP-TY/wafers-please)
+
+<div align="center">
+<a href="https://github.com/JP-TY/wafers-please"><img src="https://readme-stats-six-psi.vercel.app/api/pin/?username=JP-TY&repo=wafers-please&theme=tokyonight&hide_border=true" width="400" /></a>
+</div>
 
 ---
 
@@ -141,12 +163,16 @@ Educational inspection-shift simulator with deterministic defect generation + du
 
 <div align="center">
 
-![JP-TY's GitHub stats](https://github-readme-stats.vercel.app/api?username=JP-TY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JP-TY&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://readme-stats-six-psi.vercel.app/api?username=JP-TY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="430" />
+<img src="https://readme-stats-six-psi.vercel.app/api/top-langs/?username=JP-TY&layout=compact&theme=tokyonight&hide_border=true" width="340" />
 
-![Streak](https://streak-stats.demolab.com?user=JP-TY&theme=tokyonight&hide_border=true)
+<br>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=JP-TY&theme=tokyonight&no-frame=true&row=1&column=6)
+<img src="https://streak-stats.demolab.com?user=JP-TY&theme=tokyonight&hide_border=true" width="480" />
+
+<br>
+
+<img src="https://github-trophies.vercel.app/?username=JP-TY&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
 
 </div>
 
@@ -163,8 +189,4 @@ I'm open to **internships, collaborations, and hackathons** — especially cloud
 
 > Recruiters in a hurry? Jump straight to [Projects](https://jpty.me/#/projects) · [Skills](https://jpty.me/#/skills) · [Experience](https://jpty.me/#/experience) · [Recognition](https://jpty.me/#/recognition)
 
----
-
-<div align="center">
-  <sub>⚡ Fun fact: my portfolio <a href="https://jpty.me">jpty.me</a> boots like a retro console — but my code reviews are 100% serious.</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:22C55E&height=120&section=footer" width="100%" />
