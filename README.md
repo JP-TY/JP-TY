@@ -1,23 +1,25 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0EA5E9&height=180&section=header&text=James%20Ty&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0C10,100:1C170C&height=180&section=header&text=James%20Ty&fontSize=52&fontColor=F5B544&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Cloud+Engineer+%7C+BS+CS+%40+UP+Cebu+'27;3x+AWS+Certified+%7C+GitHub+Campus+Expert;Building+cloud%2C+AI+%26+systems+that+ship)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F5B544&center=true&vCenter=true&width=500&lines=Cloud+Engineer+%7C+BS+CS+%40+UP+Cebu+'27;3x+AWS+Certified+%7C+GitHub+Campus+Expert;Building+cloud%2C+AI+%26+systems+that+ship)](https://git.io/typing-svg)
 
 **Cloud Engineer · 3× AWS Certified · GitHub Campus Expert · AWS Student Builder Group Lead**
 
 📍 Cebu City, Philippines · 🎓 BS Computer Science, UP Cebu — July 2027
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jpty.me-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jpty.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-gabriel-elijah-ty-89a157302/)
-[![Email](https://img.shields.io/badge/Email-jamesty016@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamesty016@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-6B7280?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://jpty.me/resume.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jpty.me-F5B544?style=for-the-badge&logo=google-chrome&logoColor=black)](https://jpty.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-F5B544?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/james-gabriel-elijah-ty-89a157302/)
+[![Email](https://img.shields.io/badge/Email-jamesty016@gmail.com-F5B544?style=for-the-badge&logo=gmail&logoColor=black)](mailto:jamesty016@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-F5B544?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=black)](https://jpty.me/resume.pdf)
 
-![Profile views](https://komarev.com/ghpvc/?username=JP-TY&style=flat-square&color=22C55E)
+![Profile views](https://komarev.com/ghpvc/?username=JP-TY&style=flat-square&color=F5B544)
 
 </div>
 
 ---
+
+``[ :: ] 01 / 06 · PROFILE``
 
 ## 👨‍💻 About me
 
@@ -34,42 +36,7 @@ I'm a Computer Science undergrad who likes building **real systems** — cloud i
 
 ---
 
-## 🛠️ Tech stack
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,ts,python,go,nextjs,fastapi,django,tensorflow,pytorch,postgres,redis,supabase,solidity&theme=dark)](https://skillicons.dev)
-
-</div>
-
-**Cloud & Infra**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-D8372A?style=flat-square&logo=huawei&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**AI & Data**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
-**Web & Systems**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
-
----
+``[ :: ] 02 / 06 · PROJECTS``
 
 ## 🚀 Featured projects
 
@@ -86,7 +53,7 @@ Immutable agreement lifecycles, multi-deliverable escrow state machines, automat
 <br>[🌐 Website](https://www.sabotchain.com) · [💻 GitHub](https://github.com/gian-gg/sabot/tree/main) · [🎥 Demo](https://www.youtube.com/watch?v=duVOl5K5IVE)
 
 <div align="center">
-<a href="https://github.com/gian-gg/sabot"><img src="https://readme-stats-six-psi.vercel.app/api/pin/?username=gian-gg&repo=sabot&theme=tokyonight&hide_border=true" width="400" /></a>
+<a href="https://github.com/gian-gg/sabot"><img src="https://readme-stats-six-psi.vercel.app/api/pin/?username=gian-gg&repo=sabot&title_color=F5B544&icon_color=F5B544&text_color=F5ECD7&bg_color=0A0C10&border_color=3A2F18" width="400" /></a>
 </div>
 
 ### 🗺️ [LakbAI](https://lakbai.maxellmilay.com) — pedestrian accessibility intelligence
@@ -96,7 +63,7 @@ Geospatial dashboard scoring walkability across PH pilot areas. Fuzzy-logic infe
 <br>[🌐 Website](https://lakbai.maxellmilay.com) · [💻 GitHub](https://github.com/maxellmilay/lakbai/tree/main)
 
 <div align="center">
-<a href="https://github.com/maxellmilay/lakbai"><img src="https://readme-stats-six-psi.vercel.app/api/pin/?username=maxellmilay&repo=lakbai&theme=tokyonight&hide_border=true" width="400" /></a>
+<a href="https://github.com/maxellmilay/lakbai"><img src="https://readme-stats-six-psi.vercel.app/api/pin/?username=maxellmilay&repo=lakbai&title_color=F5B544&icon_color=F5B544&text_color=F5ECD7&bg_color=0A0C10&border_color=3A2F18" width="400" /></a>
 </div>
 
 ### 🌳 GreenPoint — GIS urban-greening framework
@@ -106,7 +73,7 @@ Satellite NDVI/LST + air quality → multi-dimensional Greenery Index (quantity,
 <br>[🌐 Website](https://fb-green-point-vercel.app) · [💻 GitHub](https://github.com/sicefguroni/green-point)
 
 <div align="center">
-<a href="https://github.com/sicefguroni/green-point"><img src="https://readme-stats-six-psi.vercel.app/api/pin/?username=sicefguroni&repo=green-point&theme=tokyonight&hide_border=true" width="400" /></a>
+<a href="https://github.com/sicefguroni/green-point"><img src="https://readme-stats-six-psi.vercel.app/api/pin/?username=sicefguroni&repo=green-point&title_color=F5B544&icon_color=F5B544&text_color=F5ECD7&bg_color=0A0C10&border_color=3A2F18" width="400" /></a>
 </div>
 
 ### 🍘 [Wafers, Please!](https://wafers-please.vercel.app) — semiconductor training in WebXR
@@ -115,10 +82,51 @@ Educational inspection-shift simulator with deterministic defect generation + du
 <br>[🌐 Website](https://wafers-please.vercel.app) · [💻 GitHub](https://github.com/JP-TY/wafers-please)
 
 <div align="center">
-<a href="https://github.com/JP-TY/wafers-please"><img src="https://readme-stats-six-psi.vercel.app/api/pin/?username=JP-TY&repo=wafers-please&theme=tokyonight&hide_border=true" width="400" /></a>
+<a href="https://github.com/JP-TY/wafers-please"><img src="https://readme-stats-six-psi.vercel.app/api/pin/?username=JP-TY&repo=wafers-please&title_color=F5B544&icon_color=F5B544&text_color=F5ECD7&bg_color=0A0C10&border_color=3A2F18" width="400" /></a>
 </div>
 
 ---
+
+``[ :: ] 03 / 06 · SKILLS``
+
+## 🛠️ Tech stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,ts,python,go,nextjs,fastapi,django,tensorflow,pytorch,postgres,redis,supabase,solidity&theme=dark)](https://skillicons.dev)
+
+</div>
+
+**Cloud & Infra**
+![AWS](https://img.shields.io/badge/AWS-1C170C?style=flat-square&logo=amazonaws&logoColor=F5B544)
+![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-1C170C?style=flat-square&logo=huawei&logoColor=F5B544)
+![Docker](https://img.shields.io/badge/Docker-1C170C?style=flat-square&logo=docker&logoColor=F5B544)
+![Terraform](https://img.shields.io/badge/Terraform-1C170C?style=flat-square&logo=terraform&logoColor=F5B544)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1C170C?style=flat-square&logo=githubactions&logoColor=F5B544)
+![Redis](https://img.shields.io/badge/Redis-1C170C?style=flat-square&logo=redis&logoColor=F5B544)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1C170C?style=flat-square&logo=postgresql&logoColor=F5B544)
+
+**AI & Data**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1C170C?style=flat-square&logo=tensorflow&logoColor=F5B544)
+![PyTorch](https://img.shields.io/badge/PyTorch-1C170C?style=flat-square&logo=pytorch&logoColor=F5B544)
+![SageMaker](https://img.shields.io/badge/SageMaker-1C170C?style=flat-square&logo=amazonaws&logoColor=F5B544)
+![Supabase](https://img.shields.io/badge/Supabase-1C170C?style=flat-square&logo=supabase&logoColor=F5B544)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C170C?style=flat-square&logo=langchain&logoColor=F5B544)
+
+**Web & Systems**
+![TypeScript](https://img.shields.io/badge/TypeScript-1C170C?style=flat-square&logo=typescript&logoColor=F5B544)
+![Python](https://img.shields.io/badge/Python-1C170C?style=flat-square&logo=python&logoColor=F5B544)
+![Go](https://img.shields.io/badge/Go-1C170C?style=flat-square&logo=go&logoColor=F5B544)
+![C#](https://img.shields.io/badge/C%23-1C170C?style=flat-square&logo=dotnet&logoColor=F5B544)
+![Next.js](https://img.shields.io/badge/Next.js-1C170C?style=flat-square&logo=nextdotjs&logoColor=F5B544)
+![FastAPI](https://img.shields.io/badge/FastAPI-1C170C?style=flat-square&logo=fastapi&logoColor=F5B544)
+![Django](https://img.shields.io/badge/Django-1C170C?style=flat-square&logo=django&logoColor=F5B544)
+![Solidity](https://img.shields.io/badge/Solidity-1C170C?style=flat-square&logo=solidity&logoColor=F5B544)
+![Mapbox](https://img.shields.io/badge/Mapbox-1C170C?style=flat-square&logo=mapbox&logoColor=F5B544)
+
+---
+
+``[ :: ] 04 / 06 · EXPERIENCE``
 
 ## 💼 Experience
 
@@ -132,6 +140,8 @@ Educational inspection-shift simulator with deterministic defect generation + du
 
 ---
 
+``[ :: ] 05 / 06 · RECOGNITION``
+
 ## 🏆 Achievements
 
 - 🥉 **Huawei Developer Competition 2025** — 2nd Runner-Up (International)
@@ -143,9 +153,7 @@ Educational inspection-shift simulator with deterministic defect generation + du
 - 🥇 **CESAFI Computer Quiz Bowl** — Champion HS '23 · 2nd RU College '26
 - 🥈 **UPCSG Inter-High Programming Competition** — 1st Runner-Up
 
-<details>
-<summary><b>📜 Certifications (7) — click to expand</b></summary>
-<br>
+## 📜 Certifications
 
 - ✅ AWS Solutions Architect – Associate
 - ✅ AWS Cloud Practitioner
@@ -155,20 +163,18 @@ Educational inspection-shift simulator with deterministic defect generation + du
 - ✅ Huawei Cloud HCCDA – AI
 - ✅ Huawei Cloud HCCDA – Tech Essentials
 
-</details>
-
 ---
 
 ## 📊 GitHub stats
 
 <div align="center">
 
-<img src="https://readme-stats-six-psi.vercel.app/api?username=JP-TY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="430" />
-<img src="https://readme-stats-six-psi.vercel.app/api/top-langs/?username=JP-TY&layout=compact&theme=tokyonight&hide_border=true" width="340" />
+<img src="https://readme-stats-six-psi.vercel.app/api?username=JP-TY&show_icons=true&title_color=F5B544&icon_color=F5B544&text_color=F5ECD7&bg_color=0A0C10&border_color=3A2F18&count_private=true" width="430" />
+<img src="https://readme-stats-six-psi.vercel.app/api/top-langs/?username=JP-TY&layout=compact&title_color=F5B544&text_color=F5ECD7&bg_color=0A0C10&border_color=3A2F18" width="340" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=JP-TY&theme=tokyonight&hide_border=true" width="480" />
+<img src="https://streak-stats.demolab.com?user=JP-TY&background=0A0C10&border=3A2F18&stroke=3A2F18&ring=F5B544&fire=F5B544&currStreakNum=F5ECD7&sideNums=F5B544&currStreakLabel=B3A67F&sideLabels=B3A67F&dates=B3A67F&hide_border=false" width="480" />
 
 <br>
 
@@ -177,6 +183,8 @@ Educational inspection-shift simulator with deterministic defect generation + du
 </div>
 
 ---
+
+``[ :: ] 06 / 06 · CONTACT``
 
 ## 🤝 Let's connect
 
@@ -189,4 +197,4 @@ I'm open to **internships, collaborations, and hackathons** — especially cloud
 
 > Recruiters in a hurry? Jump straight to [Projects](https://jpty.me/#/projects) · [Skills](https://jpty.me/#/skills) · [Experience](https://jpty.me/#/experience) · [Recognition](https://jpty.me/#/recognition)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:22C55E&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C170C,100:0A0C10&height=120&section=footer" width="100%" />
