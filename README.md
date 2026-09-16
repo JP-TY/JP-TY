@@ -169,8 +169,8 @@ Educational inspection-shift simulator with deterministic defect generation + du
 
 <div align="center">
 
-<img src="https://readme-stats-six-psi.vercel.app/api?username=JP-TY&show_icons=true&title_color=F5B544&icon_color=F5B544&text_color=F5ECD7&bg_color=0A0C10&border_color=3A2F18&count_private=true" width="430" />
-<img src="https://readme-stats-six-psi.vercel.app/api/top-langs/?username=JP-TY&layout=compact&title_color=F5B544&text_color=F5ECD7&bg_color=0A0C10&border_color=3A2F18" width="340" />
+<img src="https://readme-stats-six-psi.vercel.app/api?username=JP-TY&show_icons=true&title_color=F5B544&icon_color=F5B544&text_color=F5ECD7&bg_color=0A0C10&border_color=3A2F18&count_private=true&include_all_commits=true&cache_seconds=3600" width="430" />
+<img src="https://readme-stats-six-psi.vercel.app/api/top-langs/?username=JP-TY&layout=compact&title_color=F5B544&text_color=F5ECD7&bg_color=0A0C10&border_color=3A2F18&cache_seconds=86400" width="340" />
 
 <br>
 
