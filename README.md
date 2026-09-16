@@ -52,7 +52,7 @@ Immutable agreement lifecycles, multi-deliverable escrow state machines, automat
 <br>🏆 Lisk Builders Challenge Round 3 — **Honorable Mention**
 <br>[🌐 Website](https://www.sabotchain.com) · [💻 GitHub](https://github.com/gian-gg/sabot/tree/main) · [🎥 Demo](https://www.youtube.com/watch?v=duVOl5K5IVE)
 
-<div align="center">
+<div align="left">
 <a href="https://github.com/gian-gg/sabot"><img src="https://readme-stats-six-psi.vercel.app/api/pin/?username=gian-gg&repo=sabot&title_color=F5B544&icon_color=F5B544&text_color=F5ECD7&bg_color=0A0C10&border_color=3A2F18" width="400" /></a>
 </div>
 
@@ -62,7 +62,7 @@ Geospatial dashboard scoring walkability across PH pilot areas. Fuzzy-logic infe
 <br>🏆 Philippine Junior Data Science Challenge 2024 — **Champion**
 <br>[🌐 Website](https://lakbai.maxellmilay.com) · [💻 GitHub](https://github.com/maxellmilay/lakbai/tree/main)
 
-<div align="center">
+<div align="left">
 <a href="https://github.com/maxellmilay/lakbai"><img src="https://readme-stats-six-psi.vercel.app/api/pin/?username=maxellmilay&repo=lakbai&title_color=F5B544&icon_color=F5B544&text_color=F5ECD7&bg_color=0A0C10&border_color=3A2F18" width="400" /></a>
 </div>
 
@@ -72,7 +72,7 @@ Satellite NDVI/LST + air quality → multi-dimensional Greenery Index (quantity,
 <br>🏆 UP Cebu EXPOdition 30 — **Project of the Year**
 <br>[🌐 Website](https://fb-green-point-vercel.app) · [💻 GitHub](https://github.com/sicefguroni/green-point)
 
-<div align="center">
+<div align="left">
 <a href="https://github.com/sicefguroni/green-point"><img src="https://readme-stats-six-psi.vercel.app/api/pin/?username=sicefguroni&repo=green-point&title_color=F5B544&icon_color=F5B544&text_color=F5ECD7&bg_color=0A0C10&border_color=3A2F18" width="400" /></a>
 </div>
 
@@ -81,7 +81,7 @@ Educational inspection-shift simulator with deterministic defect generation + du
 <br>`Next.js` `TypeScript` `A-Frame` `WebXR`
 <br>[🌐 Website](https://wafers-please.vercel.app) · [💻 GitHub](https://github.com/JP-TY/wafers-please)
 
-<div align="center">
+<div align="left">
 <a href="https://github.com/JP-TY/wafers-please"><img src="https://readme-stats-six-psi.vercel.app/api/pin/?username=JP-TY&repo=wafers-please&title_color=F5B544&icon_color=F5B544&text_color=F5ECD7&bg_color=0A0C10&border_color=3A2F18" width="400" /></a>
 </div>
 
@@ -175,10 +175,6 @@ Educational inspection-shift simulator with deterministic defect generation + du
 <br>
 
 <img src="https://streak-stats.demolab.com?user=JP-TY&background=0A0C10&border=3A2F18&stroke=3A2F18&ring=F5B544&fire=F5B544&currStreakNum=F5ECD7&sideNums=F5B544&currStreakLabel=B3A67F&sideLabels=B3A67F&dates=B3A67F&hide_border=false" width="480" />
-
-<br>
-
-<img src="https://github-trophies.vercel.app/?username=JP-TY&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
 
 </div>
 
