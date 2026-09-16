@@ -1,0 +1,5 @@
+# Profile repo — only README.md is tracked (shows on GitHub profile)
+# Ignore everything else, including the portfolio site checkout
+/*
+!.gitignore
+!README.md
