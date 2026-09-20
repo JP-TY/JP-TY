@@ -169,12 +169,15 @@ Educational inspection-shift simulator with deterministic defect generation + du
 
 <div align="center">
 
-<img src="https://readme-stats-six-psi.vercel.app/api?username=JP-TY&show_icons=true&title_color=F5B544&icon_color=F5B544&text_color=F5ECD7&bg_color=0A0C10&border_color=3A2F18&count_private=true&include_all_commits=true&cache_seconds=3600" width="430" />
+<!-- Self-generated stats cards: `python3 scripts/github_stats.py` or the daily
+     `.github/workflows/stats.yml` run refreshes these. Needs repo secret
+     GH_STATS_TOKEN (PAT classic: read:user + repo) to include private. -->
+<img src="./assets/stats.svg" width="430" />
 <img src="https://readme-stats-six-psi.vercel.app/api/top-langs/?username=JP-TY&layout=compact&title_color=F5B544&text_color=F5ECD7&bg_color=0A0C10&border_color=3A2F18&cache_seconds=86400" width="340" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=JP-TY&background=0A0C10&border=3A2F18&stroke=3A2F18&ring=F5B544&fire=F5B544&currStreakNum=F5ECD7&sideNums=F5B544&currStreakLabel=B3A67F&sideLabels=B3A67F&dates=B3A67F&hide_border=false" width="480" />
+<img src="./assets/streak.svg" width="480" />
 
 </div>
 
